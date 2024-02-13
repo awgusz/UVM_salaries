@@ -9,4 +9,4 @@ This is where a list and description of all files in the repository will go.
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See <a href="https://github.com/awgusz/UVM_salaries/blob/main/LICENSE">`LICENSE`</a> for more information.
