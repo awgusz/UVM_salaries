@@ -4,7 +4,14 @@ This repository was created as a final project for LIS 545: Data Curation Fundam
 
 ## Files
 
-This is where a list and description of all files in the repository will go.
+### Dataset Files
+
+data_dictionary.csv
+
+salaries_final.csv
+
+salaries_without_dept.csv
+
 
 
 ## License
