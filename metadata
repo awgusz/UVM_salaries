@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<uvmMetadata>
+  <identifier identifierType="URL">https://www.kaggle.com/datasets/tysonpo/university-salaries</identifier>
+  <creator>
+    <creatorName nametype="Personal">Pond, Tyson</creatorName>
+    <affiliation>University of Vermont</affiliation>
+  </creator>
+  <title xml:lang="en">University of Vermont Salaries 2009-2021</title>
+  <publisher xml:lang="en">Kaggle</publisher>
+  <publicationYear>2021</publicationYear>
