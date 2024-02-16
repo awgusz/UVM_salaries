@@ -6,11 +6,11 @@ This repository was created as a final project for LIS 545: Data Curation Fundam
 
 ### Dataset Files
 
-data_dictionary.csv
+data_dictionary.csv -- explains the various meanings of the abbreviations in the College column of the latter spreadsheet, including clarifying notes on rarely-used or vague abbreviations.
 
-salaries_final.csv
+salaries_final.csv -- a table containing the name, primary job title, base pay, department, and college by year (from 2009 to 2021) of all UVM faculty and administrative staff.
 
-salaries_without_dept.csv
+salaries_without_dept.csv -- a table containing the name, primary job title, base pay, and department by year (from 2009 to 2021) of all UVM faculty and staff, even those not associated with one of the university's constituent colleges.
 
 
 ### Project Files
