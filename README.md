@@ -15,7 +15,7 @@ salaries_without_dept.csv -- a table containing the name, primary job title, bas
 
 ### Project Files
 
-final_report.txt -- ???
+final_report.pdf -- contains updated data and metadata and repository profiles, recommended citation, and statements on copyright, preservation, and human subject privacy concerns related to the UVM Salaries dataset.
 
 metadata -- contains DataCite-compliant metadata in XML format for the UVM Salaries dataset.
 
